@@ -2,26 +2,31 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
 
-## Development server
+## -- Why RAEID?
+This website is in the deployment phase of the AI model. This model detects incidents on the road 
+(fire, car crash, car damage, car flipped, and floods). Then the result will pass into this website in order to notify the emergency service to take action.  
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Home Page 
+- Page with some statistics about the incidents types and immediate notification once incidents have happened
+- The home page also has a card that determines if the road status is  $DENSE$ or $SPARSE$ 
 
-## Code scaffolding
+$${\color{red}DENSE}$$           |  $${\color{Green}SPARSE}$$
+:-------------------------:|:-------------------------:
+![Screenshot 2023-07-31 022210](https://github.com/salmaelsy/RAEID/assets/62834497/84b0f8f7-5648-4f96-952a-565469e33a64)| ![Screenshot 2023-07-31 022032](https://github.com/salmaelsy/RAEID/assets/62834497/12c950b7-f882-41a0-9d77-b3ed55d9ddd9)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Incident Details Page
+-  This page is only available when a real-time incident has occurred and it contains the last frames of the incident and some of the actions to take such as calling the ambulance or firefighters, For Example...
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Fire Frames             |  Traffic Jam Frames
+:-------------------------:|:-------------------------:
+![21](https://github.com/salmaelsy/RAEID/assets/62834497/02d8e412-801e-48e2-a03a-778954503a13) | ![22](https://github.com/salmaelsy/RAEID/assets/62834497/1dba80f0-50d1-48a2-a2af-f181fbeaa420)
 
-## Running end-to-end tests
+## All incidents Page
+- This page includes all previous incidents 
+  
+![Screenshot 2023-08-09 020209](https://github.com/salmaelsy/RAEID/assets/62834497/1d88d96d-752a-4332-b7e8-f43cc2b43c27)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
