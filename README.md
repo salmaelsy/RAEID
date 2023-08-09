@@ -13,8 +13,7 @@ This website is in the deployment phase of the AI model. This model detects inci
 
 $${\color{red}DENSE}$$           |  $${\color{Green}SPARSE}$$
 :-------------------------:|:-------------------------:
-![Screenshot 2023-07-31 022210](https://github.com/salmaelsy/RAEID/assets/62834497/84b0f8f7-5648-4f96-952a-565469e33a64)| ![Screenshot 2023-07-31 022032](https://github.com/salmaelsy/RAEID/assets/62834497/12c950b7-f882-41a0-9d77-b3ed55d9ddd9)
-
+![Screenshot 2023-07-31 022210](https://github.com/salmaelsy/RAEID/assets/62834497/0137fd00-7701-4c4a-8409-c380fd71dfb4)| ![Screenshot 2023-07-31 022032](https://github.com/salmaelsy/RAEID/assets/62834497/efcb6214-63e4-47de-85d6-94907d74b3a7)
 
 
 ## Incident Details Page
@@ -23,11 +22,10 @@ $${\color{red}DENSE}$$           |  $${\color{Green}SPARSE}$$
 
 Fire Frames             |  Traffic Jam Frames
 :-------------------------:|:-------------------------:
-![21](https://github.com/salmaelsy/RAEID/assets/62834497/02d8e412-801e-48e2-a03a-778954503a13) | ![22](https://github.com/salmaelsy/RAEID/assets/62834497/1dba80f0-50d1-48a2-a2af-f181fbeaa420)
-
+![21](https://github.com/salmaelsy/RAEID/assets/62834497/6b08472d-c50b-4ef7-bb7e-58b520d86522) | ![22](https://github.com/salmaelsy/RAEID/assets/62834497/48a683ed-c6c8-4509-a021-ffbfc00f7ca6)
 ## All incidents Page
 - This page includes all previous incidents 
   
-![Screenshot 2023-08-09 020209](https://github.com/salmaelsy/RAEID/assets/62834497/1d88d96d-752a-4332-b7e8-f43cc2b43c27)
+![Screenshot 2023-08-09 020209](https://github.com/salmaelsy/RAEID/assets/62834497/0c15ef0b-db65-491c-abf5-bd0a4522f805)
 
 
